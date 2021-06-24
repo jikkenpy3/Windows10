@@ -2,3 +2,4 @@ test commit&push
 test pull 
 test antes revisión
 test2 push 
+test2 pull
